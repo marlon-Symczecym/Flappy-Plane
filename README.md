@@ -14,7 +14,7 @@ Controles:
 Space: Unico botão utilizando durante o game é o espaço, para fazer o avião subir e para dar comando das telas.
 
 
-**Imagens do Game**
+**Imagem do Game**
 
 ![Game Screenshot](https://github.com/SquirrelArteeDesign/Flappy-Plane/blob/master/imgs/PrintScreenGame.png)
 
